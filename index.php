@@ -297,9 +297,9 @@ How To Use:<br />
 <div style="background-color:#dddddd;">
 用例：<br/>
 mode:basic:user:password<br/>
-http://test.f-lab.com/<br/>
+http://test.exaple.com/<br/>
 mode:none<br/>
-http://www.f-lab.com/<br/>
+http://www.exaple.com/<br/>
 </div>
 <br/>
 
